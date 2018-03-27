@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git clone https://github.com/pylbm/pylbm.git
+cd pylbm
+python setup.py install
