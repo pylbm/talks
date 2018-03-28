@@ -1,4 +1,5 @@
 channels:
+  - damianavila82
   - conda-forge
   - defaults
 dependencies:
@@ -11,3 +12,4 @@ dependencies:
   - future
   - h5py
   - scipy
+  - rise
