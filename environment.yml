@@ -3,14 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - numpy
-  - colorlog
-  - Cython
-  - mpi4py
-  - matplotlib
-  - sympy
-  - future
-  - h5py
-  - scipy
   - rise
   - bokeh
